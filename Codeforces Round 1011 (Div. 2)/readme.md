@@ -10,7 +10,10 @@ The first problem was straightforward, but my implementation was incorrect. As t
 I was so discouraged after my struggle with Problem A that I decided to drop the contest altogether.  
 
 **C [Serval and The Formula](https://codeforces.com/contest/2085/problem/C)**  
+𝑎+𝑏 = (𝑎⊕𝑏) + 2 × (𝑎&𝑏), is vaild for any two number. so if the number is a + b = a ⊕ b then it can be seen that the 2*(a & b) == 0.
 
+but the solution was implented using dp so i am skipping these. 
+Going to learn BIT manipulation and DP next.
 **D [Serval and Kaitenzushi Buffet](https://codeforces.com/contest/2085/problem/D)**  
 
 **E [Serval and Modulo](https://codeforces.com/contest/2085/problem/E)**  
